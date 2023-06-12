@@ -1,2 +1,3 @@
 # shivaa
 welcome
+echo welcome
